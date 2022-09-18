@@ -1,0 +1,120 @@
+body{
+  background-color: rgb(38, 67, 67);
+  background-image:url("HomePage2.jpg") ;
+  /* background-size: cover; */
+}
+
+.HomePage{
+  display:grid;
+  justify-content: center;
+  
+}
+
+.Homepage_Heading{
+  color:aliceblue;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 60px;
+}
+.Home{
+  padding: 300px;
+  
+}
+
+.Startgame_button{
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.Options{
+  display: flex;
+  justify-content: space-around;
+  padding:10px;
+  
+  
+}
+
+/* .OptionsList{
+  padding:20px;
+  background-color: rgb(216, 223, 229);
+} */
+
+/* .Clicked{
+  background-color: antiquewhite;
+} */
+
+
+.OptionsNotchoosen{
+  padding:20px;
+  border-radius: 20px;
+  text-align: center;
+  background-color: rgb(232, 232, 245);
+}
+
+.OptionsChoosen{
+  background-color: rgb(71, 224, 199);
+  padding: 20px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+/* //Score// */
+
+.Score{
+  display:flex;
+  align-items: center;
+  /* padding:180px,500px,250px,0px; */
+  padding-top: 180px;
+  padding-left:640px;
+  padding-bottom: 250px;
+  /* background-color:red; */
+}
+
+.FinalScore{
+  padding:20px;
+  
+  background-color: rgb(71, 224, 199);
+  border-radius: 40px;
+  box-shadow: 0px 1px 4px rgba(155, 114, 114, 0.25);
+  border: 2px solid black;
+  font-size: 30px;
+}
+
+.Heading_Results{
+  display: flex;
+  justify-content: center;
+  color: rgb(213, 220, 236);
+}
+
+.Marks_button_div{
+  display:flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+.Marks_button{
+  border-radius: 10px;
+  padding: 15px;
+  background-color: rgb(175, 193, 209);
+}
+
+.question{
+  color:rgb(220, 226, 226)
+}
+
+.Trivia_main{
+  padding-left:15px;
+  
+}
+
+.take_me_home_button{
+  display: flex;
+  justify-content: center;
+  
+
+}
+
+.home_button{
+  background-color: red;
+  padding:15px;
+}
+
