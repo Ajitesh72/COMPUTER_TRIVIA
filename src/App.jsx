@@ -85,7 +85,9 @@ export default function App(){
                                     setstart={setStart}
                                     start={start} 
                                     setend={setEnd}
-                                    end={end} />}
+                                    end={end} 
+                                    setfinal={setfinal}
+                                    final={final}/>}
 
     </main>
     
