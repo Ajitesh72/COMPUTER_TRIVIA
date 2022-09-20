@@ -5,8 +5,8 @@ export default function End(props){
 
     function Takemehome(){
         props.setstart(!props.start)
-        // props.setend(!props.end)
-        
+        props.setfinal(!props.final)
+        props.setend(!props.end)
     }
 
         
