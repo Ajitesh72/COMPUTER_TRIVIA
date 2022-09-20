@@ -5,6 +5,8 @@
 //**THIS IS MY FIRST MAJOR PROJECT**//
 //**SOME FEATURES ARE YET TO BE ADDED**//
 
+SITE DEPLOYED ON NETLIFY: https://triviiaaa.netlify.app/
+
 ![Screenshot (79)](https://user-images.githubusercontent.com/95878363/190901471-03628e5a-09b5-4eef-994e-86380bb8b6c4.png)
 
 ![Screenshot (80)](https://user-images.githubusercontent.com/95878363/190901477-203aaa15-2112-4217-9af5-ebbed770dcda.png)
